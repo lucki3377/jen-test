@@ -1,1 +1,3 @@
-# jen-test![Architecture](./docs/architecture.svg)
+# jen-test
+
+![Architecture](./docs/architecture.svg)
